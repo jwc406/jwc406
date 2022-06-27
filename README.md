@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gardenii's Github&fontSize=90&fontAlignY=40" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwc406)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jwc406/jwc406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
