@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Gardenii's Github&fontSize=80&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Gardenii's Github&fontSize=50&fontAlignY=40" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwc406&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
