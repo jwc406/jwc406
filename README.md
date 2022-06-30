@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Gardenii's Github&fontSize=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Gardenii's Github&fontSize=60&fontAlignY=40&animation=fadeIn" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwc406&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwc406&hide=stars,issues&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jwc406/jwc406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
