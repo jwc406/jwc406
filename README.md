@@ -1,6 +1,7 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=✨ Gardenii's Github ✨&fontSize=60&fontAlignY=40&animation=fadeIn" />
 
-<!--
+
 **jwc406/jwc406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -13,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>✨ Gardenii's Github ✨</h2>
