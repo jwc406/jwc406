@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=250&section=header&text=✨ Gardenii's Github ✨&fontSize=50&fontAlignY=40&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=✨ Gardenii's Github ✨%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=250&section=header&text=✨%20Gardenii's%20Github%20✨&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
 <div align='center'>안녕하세요👋 </br> 도움을 주는 개발자가 꿈인 최정원입니다 😊</div>
 
