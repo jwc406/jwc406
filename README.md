@@ -4,7 +4,7 @@
 </br>
 
 <h3 align='center'>📚 STACKS</h3>
-<div style="margin: auto 0">
+<div style="margin: 0 auto">
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px;"/>
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px;"/>
