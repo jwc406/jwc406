@@ -18,6 +18,7 @@
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1670914565/noticon/gsh300agvew43ug40tuq.png" alt="icon" width="58" style="width: 55px; height: 55px;"/>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568851518/noticon/lwj3hr9v1yoheimtwc1w.png" alt="icon" width="58" style="width: 45px; height: 45px;"/>
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="58" style="width: 58px; height: 58px"/>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1657314490/noticon/ur8spzfcq4acw7ijp68v.png" alt="icon" width="58" style="width: 55px; height: 55px;"/>
   </p>
 
   <p style="display: flex; justify-content: center; align-items: center; gap: 15px">
