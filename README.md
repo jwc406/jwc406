@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=200&section=header&text=✨%20Gardenii's%20Github%20✨&fontSize=40&fontAlignY=40&animation=fadeIn" />
 
-<div align='center'>안녕하세요👋 </br> 도움을 주는 개발자가 꿈인 최정원입니다 😊</div>
-
 <div align='center'>
 
   <h2 align='center'>📚 STACKS</h2>
